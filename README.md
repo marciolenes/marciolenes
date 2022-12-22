@@ -1,6 +1,6 @@
 
 
-##  Oiii 😎 eu sou o Marcio Leñes, desenvolvedor Front-End em formação!<br><br>
+##  Oiii, eu sou o Marcio Leñes, desenvolvedor Front-End em formação!<br><br>
 
 <div align="center">
   <a href="https://github.com/marciolenes">
