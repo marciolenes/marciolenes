@@ -1,6 +1,21 @@
 
 
-##  Oiii, eu sou o Marcio Leñes, QA Enginner em formação!<br><br>
+##  Oiii, eu sou o Marcio Leñes, QA Enginner em formação!<br>
+<div align="align">
+Atualmente, estou em transição de carreira para QA, trazendo minha experiência de 25 anos na indústria metalúrgica para agregar valor na área de qualidade de software.<br>
+Desde então venho aprimorando meus conhecimentos e aplicando-os na prática.<br>
+Estou buscando minha primeira oportunidade como QA Júnior e aberto a conexões e recomendações.<br>
+
+Este repositório faz parte do meu portfólio de estudos/práticas em QA.<br>
+
+Estou aberto a vagas (Jr, Assistente, Estágio e etc) que possam agregar nessa nova jornada!<br>
+
+🔗 LinkedIn: https://www.linkedin.com/in/marciolenes <br>
+📫 E-mail: marthiolenes@gmail.com <br>
+</div>
+<br>
+
+
 
 <div align="center">
   <a href="https://github.com/marciolenes">
