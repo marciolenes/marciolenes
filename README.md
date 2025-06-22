@@ -51,7 +51,6 @@ Estou buscando minha primeira oportunidade como QA Júnior (Assistente, Estágio
 ## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marciolenes)
-- 💻 [GitHub](https://github.com/marciolenes)
 - 📫 [E-mail](marthiolenes@gmail.com) 
 
 ---
