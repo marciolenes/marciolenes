@@ -51,8 +51,8 @@ Estou buscando minha primeira oportunidade como QA Júnior (Assistente, Estágio
 ## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marciolenes)
-- 📫 marthiolenes@gmail.com
-
+- 📫 [E-Mail](mailto:marthiolenes@gmail.com)
+  
 ---
 
 <div align="center">
