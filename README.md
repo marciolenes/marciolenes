@@ -6,7 +6,7 @@ Atualmente, estou em transição de carreira para QA, trazendo minha experiênci
 Desde então venho aprimorando meus conhecimentos e aplicando-os na prática.<br>
 
 🎯 **Atualmente me capacitando em**:
-
+  
 - Fundamentos, Técnicas e Planejamento de Testes
 - Compreensão do ciclo de vida de desenvolvimento de software e boas práticas de QA
 - Pensamento analítico e abordagem proativa para a resolução de problemas
@@ -19,9 +19,35 @@ Desde então venho aprimorando meus conhecimentos e aplicando-os na prática.<br
 - Testes de Performance
 - Metodologias Ágeis
 
-Este repositório faz parte do meu portfólio de estudos/práticas em QA.<br><br>
-Estou buscando minha primeira oportunidade como QA Júnior (Assistente, Estágio e etc) que possam agregar nessa nova jornada.
+Este repositório faz parte do meu portfólio de estudos/práticas em QA.
 
+---
+
+<!-- 
+## 🧪 Tecnologias e Ferramentas
+
+- **Testes Automatizados:** Cypress, Robot Framework  
+- **Testes de API e Mobile:** Cypress, Robot Framework, Appium, Android Studio
+- **Gerenciamento Ágil:** Jira (Scrum, Kanban), Jira Service Management (JSM) 
+- **Certificações:** CTFL - Certified Tester Foundation Level  
+
+---
+
+## 📂 Repositórios em Destaque
+
+🔧 **[automation-practice-qa-robot-web](https://github.com/LenilsonBastida/automation-practice-qa-robot-web)**  
+Automação de testes web para prática de QA utilizando Robot Framework.
+
+🔧 **[typicode-qa-robot-api](https://github.com/LenilsonBastida/typicode-qa-robot-api)**  
+Automação de testes de API com Robot Framework, usando JSONPlaceholder como base.
+
+🔧 **[app-android-calculator-qa-robot-mobile](https://github.com/LenilsonBastida/app-android-calculator-qa-robot-mobile)**  
+Testes automatizados para aplicativo de calculadora Android usando Robot Framework + Appium.
+
+---
+Conteúdo oculto aqui -->
+
+Estou buscando minha primeira oportunidade como QA Júnior (Assistente, Estágio e etc) que possam agregar nessa nova jornada.
 ## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marciolenes)
