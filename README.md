@@ -1,11 +1,9 @@
-
-
 # 👋 Olá! Eu sou o Marcio Leñes, QA Enginner em formação!<br>
 
-Atualmente, estou em transição de carreira para QA, trazendo minha experiência de 25 anos na indústria metalúrgica para agregar valor na área de qualidade de software.<br>
-Desde então venho aprimorando meus conhecimentos e aplicando-os na prática.<br>
+Movido por um grande interesse em tecnologia e melhoria contínua, estou me capacitando na área de QA (Quality Assurance), com foco em testes manuais, fundamentos de automação e metodologias ágeis. 
+Tenho buscado aprendizado constante por meio de cursos, projetos práticos e participação ativa em comunidades de tecnologia.
 
-🎯 **Atualmente me capacitando em**:
+📌 Em formação contínua em::
   
 - Fundamentos, Técnicas e Planejamento de Testes
 - Compreensão do ciclo de vida de desenvolvimento de software e boas práticas de QA
